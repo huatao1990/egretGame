@@ -1,0 +1,6 @@
+{"file":"header_sp.png","frames":{
+"coinbg_png":{"x":1,"y":1,"w":257,"h":90,"offX":0,"offY":0,"sourceW":257,"sourceH":90},
+"icon_coin_png":{"x":1,"y":93,"w":73,"h":74,"offX":0,"offY":0,"sourceW":73,"sourceH":74},
+"strategy_png":{"x":367,"y":88,"w":74,"h":82,"offX":0,"offY":0,"sourceW":74,"sourceH":82},
+"avatar_png":{"x":367,"y":1,"w":85,"h":85,"offX":0,"offY":0,"sourceW":85,"sourceH":85},
+"avatar_frame_png":{"x":260,"y":1,"w":105,"h":105,"offX":0,"offY":0,"sourceW":105,"sourceH":105}}}

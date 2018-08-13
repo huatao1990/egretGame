@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.loadingSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui">
+    <e:Image source="loading_bg_jpg" fillMode="scale"/>
+    <e:Image source="loading_logo_png" y="128" horizontalCenter="0"/>
+    <e:Image source="loading_fish_png" y="429" x="485"/>
+
+    <e:Label id="labelDisplay" width="100%" height="30" x="0" bottom="92"
+        text="加载中(0%)" textAlign="center" size="26" fontFamily="Micro YaHei" textColor="0xffffff"
+    />
+
+    <e:Group bottom="72" width="538" height="9" horizontalCenter="0">
+        <e:Image source="loading_progress_bg_png" scale9Grid="2,2,4,5" x="0" width="100%" height="100%"/>
+        <e:Image id="thumb" source="loading_progress_bar_png" scale9Grid="3,3,2,3" width="50%" height="100%"/>
+    </e:Group>
+
+    <e:Label text="抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当\r\n适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活"
+        x="0" bottom="10" width="100%" textAlign="center" textColor="0xfbf7f7" size="20" fontFamily="Micro YaHei"
+    />
+</e:Skin>

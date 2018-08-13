@@ -1,0 +1,158 @@
+{
+	"groups": [
+		{
+			"keys": "kitty_coin_fnt,kitty_coin_png,bg_jpg,tabs_json,header_bg_png,header_sp_json,features_sp_json,details_box_bg_png,details_box_frame_png,details_deco_3_png,details_dec_1_png,details_dec_2_png,features_bg_png,generation_png,icon_badge_png,lovely_png,mark_png,normal_png,rare_png,shared_sp_json,popup_panel_png,popup_panel_bg_png,bg_border_png",
+			"name": "preload"
+		},
+		{
+			"keys": "loading_bg_jpg,loading_fish_png,loading_logo_png,loading_progress_bar_png,loading_progress_bg_png",
+			"name": "init"
+		}
+	],
+	"resources": [
+		{
+			"name": "loading_bg_jpg",
+			"type": "image",
+			"url": "assets/loading/loading_bg.jpg"
+		},
+		{
+			"name": "loading_fish_png",
+			"type": "image",
+			"url": "assets/loading/loading_fish.png"
+		},
+		{
+			"name": "loading_logo_png",
+			"type": "image",
+			"url": "assets/loading/loading_logo.png"
+		},
+		{
+			"name": "loading_progress_bar_png",
+			"type": "image",
+			"url": "assets/loading/loading_progress_bar.png"
+		},
+		{
+			"name": "loading_progress_bg_png",
+			"type": "image",
+			"url": "assets/loading/loading_progress_bg.png"
+		},
+		{
+			"name": "kitty_coin_fnt",
+			"type": "font",
+			"url": "assets/number/kitty_coin.fnt"
+		},
+		{
+			"name": "kitty_coin_png",
+			"type": "image",
+			"url": "assets/number/kitty_coin.png"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "tabs_json",
+			"type": "sheet",
+			"url": "assets/tabs/tabs.json",
+			"subkeys": "tab_bg_active_png,tab_bg_disabled_png,tab_bg_normal_png,tab_hourse_png,tab_mailbox_png,tab_mall_png,tab_market_png,tab_mating_png,tab_todolist_png,tab_warehourse_png"
+		},
+		{
+			"name": "header_bg_png",
+			"type": "image",
+			"url": "assets/header/header_bg.png"
+		},
+		{
+			"name": "header_sp_json",
+			"type": "sheet",
+			"url": "assets/header/header_sp.json",
+			"subkeys": "coinbg_png,icon_coin_png,strategy_png,avatar_png,avatar_frame_png"
+		},
+		{
+			"name": "features_sp_json",
+			"type": "sheet",
+			"url": "assets/features/features_sp.json",
+			"subkeys": "feature_mustache_enabled_png,feature_pattern_disabled_png,feature_pattern_enabled_png,feature_stature_disabled_png,feature_stature_enabled_png,feature_color_disabled_png,feature_color_enabled_png,feature_eye_disabled_png,feature_eye_enabled_png,feature_mustache_disabled_png"
+		},
+		{
+			"name": "details_box_bg_png",
+			"type": "image",
+			"url": "assets/cat/details_box_bg.png"
+		},
+		{
+			"name": "details_box_frame_png",
+			"type": "image",
+			"url": "assets/cat/details_box_frame.png"
+		},
+		{
+			"name": "details_deco_3_png",
+			"type": "image",
+			"url": "assets/cat/details_deco_3.png"
+		},
+		{
+			"name": "details_dec_1_png",
+			"type": "image",
+			"url": "assets/cat/details_dec_1.png"
+		},
+		{
+			"name": "details_dec_2_png",
+			"type": "image",
+			"url": "assets/cat/details_dec_2.png"
+		},
+		{
+			"name": "features_bg_png",
+			"type": "image",
+			"url": "assets/cat/features_bg.png"
+		},
+		{
+			"name": "generation_png",
+			"type": "image",
+			"url": "assets/cat/generation.png"
+		},
+		{
+			"name": "icon_badge_png",
+			"type": "image",
+			"url": "assets/cat/icon_badge.png"
+		},
+		{
+			"name": "lovely_png",
+			"type": "image",
+			"url": "assets/cat/lovely.png"
+		},
+		{
+			"name": "mark_png",
+			"type": "image",
+			"url": "assets/cat/mark.png"
+		},
+		{
+			"name": "normal_png",
+			"type": "image",
+			"url": "assets/cat/normal.png"
+		},
+		{
+			"name": "rare_png",
+			"type": "image",
+			"url": "assets/cat/rare.png"
+		},
+		{
+			"name": "shared_sp_json",
+			"type": "sheet",
+			"url": "assets/shared/shared_sp.json",
+			"subkeys": "scrollbar_bg_png,scrollbar_indicator_png,btn_back_png,btn_close_png,char_meng_png,icon_mail_png,icon_setting_png,panel_004_png,panel_015_png"
+		},
+		{
+			"name": "popup_panel_png",
+			"type": "image",
+			"url": "assets/shared/popup_panel.png"
+		},
+		{
+			"name": "popup_panel_bg_png",
+			"type": "image",
+			"url": "assets/shared/popup_panel_bg.png"
+		},
+		{
+			"name": "bg_border_png",
+			"type": "image",
+			"url": "assets/bg_border.png"
+		}
+	]
+}

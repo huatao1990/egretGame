@@ -1,0 +1,11 @@
+{"file":"tabs.png","frames":{
+"tab_bg_active_png":{"x":1,"y":237,"w":115,"h":116,"offX":3,"offY":3,"sourceW":121,"sourceH":122},
+"tab_bg_disabled_png":{"x":1,"y":119,"w":115,"h":116,"offX":3,"offY":3,"sourceW":121,"sourceH":127},
+"tab_bg_normal_png":{"x":1,"y":1,"w":115,"h":116,"offX":3,"offY":3,"sourceW":121,"sourceH":122},
+"tab_hourse_png":{"x":118,"y":115,"w":102,"h":113,"offX":10,"offY":14,"sourceW":121,"sourceH":127},
+"tab_mailbox_png":{"x":118,"y":230,"w":101,"h":110,"offX":10,"offY":17,"sourceW":121,"sourceH":127},
+"tab_mall_png":{"x":107,"y":355,"w":112,"h":106,"offX":7,"offY":21,"sourceW":121,"sourceH":127},
+"tab_market_png":{"x":118,"y":1,"w":104,"h":112,"offX":9,"offY":15,"sourceW":121,"sourceH":127},
+"tab_mating_png":{"x":1,"y":355,"w":104,"h":116,"offX":8,"offY":11,"sourceW":121,"sourceH":127},
+"tab_todolist_png":{"x":332,"y":355,"w":105,"h":112,"offX":9,"offY":15,"sourceW":121,"sourceH":127},
+"tab_warehourse_png":{"x":221,"y":355,"w":109,"h":108,"offX":8,"offY":19,"sourceW":121,"sourceH":127}}}

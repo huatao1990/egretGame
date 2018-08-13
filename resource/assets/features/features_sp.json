@@ -1,0 +1,11 @@
+{"file":"features_sp.png","frames":{
+"feature_mustache_enabled_png":{"x":1,"y":22,"w":34,"h":20,"offX":6,"offY":3,"sourceW":46,"sourceH":27},
+"feature_pattern_disabled_png":{"x":37,"y":22,"w":25,"h":26,"offX":10,"offY":0,"sourceW":46,"sourceH":27},
+"feature_pattern_enabled_png":{"x":1,"y":44,"w":25,"h":26,"offX":10,"offY":0,"sourceW":46,"sourceH":27},
+"feature_stature_disabled_png":{"x":1,"y":72,"w":25,"h":22,"offX":11,"offY":1,"sourceW":46,"sourceH":27},
+"feature_stature_enabled_png":{"x":1,"y":96,"w":25,"h":22,"offX":11,"offY":1,"sourceW":46,"sourceH":27},
+"feature_color_disabled_png":{"x":64,"y":23,"w":23,"h":25,"offX":12,"offY":1,"sourceW":46,"sourceH":27},
+"feature_color_enabled_png":{"x":89,"y":23,"w":23,"h":25,"offX":12,"offY":1,"sourceW":46,"sourceH":27},
+"feature_eye_disabled_png":{"x":39,"y":1,"w":36,"h":19,"offX":5,"offY":4,"sourceW":46,"sourceH":27},
+"feature_eye_enabled_png":{"x":1,"y":1,"w":36,"h":19,"offX":5,"offY":4,"sourceW":46,"sourceH":27},
+"feature_mustache_disabled_png":{"x":77,"y":1,"w":34,"h":20,"offX":6,"offY":3,"sourceW":46,"sourceH":27}}}
